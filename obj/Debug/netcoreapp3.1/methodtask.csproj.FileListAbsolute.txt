@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\obj\Debug\netcoreapp3.1\methodtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\obj\Debug\netcoreapp3.1\methodtask.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\obj\Debug\netcoreapp3.1\methodtask.AssemblyInfo.cs
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\obj\Debug\netcoreapp3.1\methodtask.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\bin\Debug\netcoreapp3.1\methodtask.exe
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\bin\Debug\netcoreapp3.1\methodtask.deps.json
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\bin\Debug\netcoreapp3.1\methodtask.runtimeconfig.json
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\bin\Debug\netcoreapp3.1\methodtask.runtimeconfig.dev.json
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\bin\Debug\netcoreapp3.1\methodtask.dll
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\bin\Debug\netcoreapp3.1\methodtask.pdb
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\obj\Debug\netcoreapp3.1\methodtask.dll
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\obj\Debug\netcoreapp3.1\methodtask.pdb
+C:\Users\user\Downloads\PortableGit\BP202\methodtask\obj\Debug\netcoreapp3.1\methodtask.genruntimeconfig.cache
